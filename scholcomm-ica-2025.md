@@ -50,7 +50,7 @@
 * 9am to 10:15am 
 * Centennial C (Regency 3)
 * **Moderator:** Thomas Hanitzsch
-* **Chair: **Sandra Braman
+* **Chair:** Sandra Braman
 * **Organizers:** Sandra Braman, David Ewoldsen, and Jeff Pooley
 * **Participants:** Silvio Waisbord, Sandra Braman, James Katz, David Ewoldsen, Robert T. Craig, Sheizaf Rafaeli, and Radhika Parameswaran
 * **Discussant:** Jonathan Cohen
